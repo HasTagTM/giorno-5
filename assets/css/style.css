@@ -28,9 +28,13 @@ table{
     border-top: 2px solid blueviolet;
     border-bottom: 2px solid blueviolet;
     width: 100%;
+    
 
 }
 
+td,tr{
+    background-color: ;
+}
 
 
 caption{
@@ -59,14 +63,23 @@ p{
 
 main{
     padding: 5px;
+    border: solid black;
 }
 
 
 header{
     background-color: darkorchid;
     text-align: center;
+    width: 100%;
+
 }
 
-footer{
-    width: 100%;
+.icon{
+    text-align:right;
 }
+
+
+
+
+
+
